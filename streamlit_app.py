@@ -30,7 +30,7 @@ ingredients_list = st.multiselect(
 
 ingredients_string = ''
 
-#if ingredients_list:
+if ingredients_list:
     #st.write(ingredients_list)
     #st.text(ingredients_list)
     
